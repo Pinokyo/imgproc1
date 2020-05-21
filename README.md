@@ -2,10 +2,10 @@
 
 1. I developed a MATLAB program performing histogram equalization on the input (grayscale) image. The requested are as follows:
 
-a. First, write your own histogram equalization algorithm. 
-b. Then, use built-in histogram equalization function of MATLAB (histeq). 
-c. Program should run like >> image_histeq(‘filename.ext’) 
-d. Program should finally display the items below in the same window (Hint. Use subplot function). 
+- a. First, write your own histogram equalization algorithm. 
+- b. Then, use built-in histogram equalization function of MATLAB (histeq). 
+- c. Program should run like >> image_histeq(‘filename.ext’) 
+- d. Program should finally display the items below in the same window (Hint. Use subplot function). 
   i. Input image and its histogram 
   ii. Output image of your algorithm and its histogram 
   iii. Output image of histeq function and its histogram e. Use “hw2_problem1.tif” to test your program. 
